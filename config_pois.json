@@ -1,0 +1,9 @@
+{
+    "POIS_AMAP": {
+        "city": "Shanghai_Minhang",
+        "poitypes": ["060100"],
+        "locations": ["121.573,31.138, 121.618,30.98"],
+        "divd": 0.02,
+        "keynum": 0
+    }
+}
